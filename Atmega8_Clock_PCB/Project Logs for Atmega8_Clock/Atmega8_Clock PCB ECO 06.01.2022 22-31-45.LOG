@@ -1,0 +1,20 @@
+Added Component: Designator=IC1(DIP794W53P254L3467H457Q28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/atmega8-16pu/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.atmel.com/images/atmel-2486-8-bit-avr-microcontroller-atmega8_l_summary.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.572mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA8-16PU?qs=7JStj%2FjQ2SFlSdRaC1qNjQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=+5V Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=NetBQ1_2 Pin=IC1-9
+Added Pin To Net: NetName=NetBQ1_1 Pin=IC1-10
+Added Pin To Net: NetName=NetDR1_1 Pin=IC1-20
+Added Pin To Net: NetName=NetC7_1 Pin=IC1-21
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Member To Class: ClassName=Atmega8_Clock Member=Component IC1 ATMEGA8-16PU
+Added Room: Name=Atmega8_Clock

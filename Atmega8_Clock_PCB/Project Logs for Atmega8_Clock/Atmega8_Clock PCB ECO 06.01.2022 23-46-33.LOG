@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Room: Name=Atmega8_Clock

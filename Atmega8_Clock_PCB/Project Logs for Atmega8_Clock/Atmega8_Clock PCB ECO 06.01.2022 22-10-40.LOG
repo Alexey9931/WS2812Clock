@@ -1,0 +1,99 @@
+Change Component Comment : Designator=R? Old Comment=350-00009 New Comment=photores
+Change Component Designator: OldDesignator=BQ? NewDesignator=BQ1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=DR? NewDesignator=DR1
+Change Component Designator: OldDesignator=HA? NewDesignator=HA1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB3
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Added Component: Designator=C10(Cap-EL(10x17-5)T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1000 ÏÍ‘ "; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "120 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "200 ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(PBS-05)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+5V Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=XS1-4
+Added Pin To Net: NetName=GND Pin=XS1-5
+Change Net Name : Old Net Name=NetBQ?_1 New Net Name=NetBQ1_1
+Change Net Name : Old Net Name=NetBQ?_2 New Net Name=NetBQ1_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetDR?_1 New Net Name=NetDR1_1
+Change Net Name : Old Net Name=NetHA?_1 New Net Name=NetHA1_1
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ1_2
+Added Pin To Net: NetName=from LED Pin=C10-1
+Added Pin To Net: NetName=from LED Pin=R9-1
+Added Net: Name=from LED
+Added Pin To Net: NetName=LED Pin=IC1-17
+Added Pin To Net: NetName=LED Pin=R9-2
+Added Net: Name=LED
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-2
+Added Pin To Net: NetName=NetC5_1 Pin=SB1-2
+Added Pin To Net: NetName=NetC5_1 Pin=SB1-4
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R4-2
+Added Pin To Net: NetName=NetC6_1 Pin=SB2-2
+Added Pin To Net: NetName=NetC6_1 Pin=SB2-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=photores Pin=IC1-23
+Added Pin To Net: NetName=photores Pin=R2-2
+Added Pin To Net: NetName=photores Pin=R5-1
+Added Net: Name=photores
+Added Pin To Net: NetName=SCL Pin=IC1-28
+Added Pin To Net: NetName=SCL Pin=XS1-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-27
+Added Pin To Net: NetName=SDA Pin=XS1-3
+Added Net: Name=SDA
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C1 18 Ô‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C3 10 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C4 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C5 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C6 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C7 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C8 10 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C9 10 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C10 1000 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component IC1 ATMEGA8-16PU
+Added Member To Class: ClassName=Atmega8_Clock Member=Component IC3 DS18B20+
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R2 120 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R3 10 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R4 10 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R5 photores
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R6 2 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R7 1 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R8 4.7 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R9 200 ŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component SB1 PushButton6x6
+Added Member To Class: ClassName=Atmega8_Clock Member=Component SB2 PushButton6x6
+Added Member To Class: ClassName=Atmega8_Clock Member=Component XS1 PBS-5

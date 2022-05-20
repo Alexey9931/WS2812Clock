@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=from LED Pin=XP3-1
+Removed Pin From Net: NetName=+5V Pin=XP3-3
+Added Pin To Net: NetName=+5V Pin=XP3-1
+Added Pin To Net: NetName=from LED Pin=XP3-3

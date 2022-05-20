@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:02:23 On 11.01.2022
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Atmega8_Clock.PcbDoc]
+   Generated File[Atmega8_Clock.GTL]
+   Generated File[Atmega8_Clock.RUL]
+   Generated File[Atmega8_Clock.EXTREP]
+   Generated File[Atmega8_Clock.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:02:24 On 11.01.2022

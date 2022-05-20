@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Added Component: Designator=XP3(PLS-03)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=SB1-3
+Added Pin To Net: NetName=NetC5_1 Pin=SB1-4
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=NetC6_1 Pin=SB2-2
+Added Pin To Net: NetName=NetIC1_1 Pin=SB3-3
+Added Pin To Net: NetName=GND Pin=SB3-4
+Added Pin To Net: NetName=from LED Pin=XP3-1
+Added Pin To Net: NetName=+5V Pin=XP3-2
+Added Pin To Net: NetName=GND Pin=XP3-3
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC4_1
+Added Member To Class: ClassName=Atmega8_Clock Member=Component XP1 PLS-4
+Added Member To Class: ClassName=Atmega8_Clock Member=Component XP3 PLS-3
+Added Room: Name=Atmega8_Clock

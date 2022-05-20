@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=XP3-2
+Removed Pin From Net: NetName=GND Pin=XP3-3
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=+5V Pin=XP3-3
+Added Member To Class: ClassName=Atmega8_Clock Member=Component XP3 PLS-3
+Added Room: Name=Atmega8_Clock

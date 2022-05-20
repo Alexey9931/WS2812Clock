@@ -1,0 +1,1 @@
+S7ripClock - Basic Edition by parallyze on Thingiverse: https://www.thingiverse.com/thing:4190016

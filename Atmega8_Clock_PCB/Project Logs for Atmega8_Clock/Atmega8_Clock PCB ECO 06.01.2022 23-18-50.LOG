@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=DR1-2
+Removed Pin From Net: NetName=GND Pin=IC3-3
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=XP1-3
+Removed Pin From Net: NetName=GND Pin=XS1-4
+Change Component Comment : Designator=C3 Old Comment=10 לךװ  New Comment=10 לךװ
+Change Component Comment : Designator=C8 Old Comment=10 לךװ  New Comment=10 לךװ
+Change Component Comment : Designator=C9 Old Comment=10 לךװ  New Comment=10 לךװ
+Change Component Comment : Designator=C10 Old Comment=1000 לךװ  New Comment=1000 לךװ
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=DR1-2
+Added Pin To Net: NetName=+5V Pin=IC3-3
+Added Pin To Net: NetName=+5V Pin=Q1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R7-2
+Added Pin To Net: NetName=+5V Pin=R8-2
+Added Pin To Net: NetName=+5V Pin=XP1-3
+Added Pin To Net: NetName=+5V Pin=XS1-4
+Added Net: Name=+5V

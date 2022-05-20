@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SCL Pin=XS1-2
+Removed Pin From Net: NetName=SDA Pin=XS1-3
+Removed Pin From Net: NetName=+5V Pin=XS1-4
+Removed Pin From Net: NetName=GND Pin=XS1-5
+Removed Member From Class: ClassName=Atmega8_Clock Member=XS1
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP2
+Added Component: Designator=XP1(PLS-04)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=SB1-3
+Added Pin To Net: NetName=NetC5_1 Pin=SB1-4
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=NetC6_1 Pin=SB2-2
+Added Pin To Net: NetName=NetIC1_1 Pin=SB3-3
+Added Pin To Net: NetName=GND Pin=SB3-4
+Added Pin To Net: NetName=SCL Pin=XP1-1
+Added Pin To Net: NetName=SDA Pin=XP1-2
+Added Pin To Net: NetName=+5V Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Member To Class: ClassName=Atmega8_Clock Member=Component XP2 JACK
+Added Room: Name=Atmega8_Clock

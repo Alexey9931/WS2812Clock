@@ -1,0 +1,99 @@
+Added Component: Designator=BQ?(quarz-KX-3HT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "14,7456 Ã√ˆ"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012L-—0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "18 Ô‘"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012L-—0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "18 Ô‘"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap-EL(10x17-5)T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÏÍ‘ "; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap-EL(10x17-5)T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÏÍ‘ "; VariantName = "[No Variations]"
+Added Component: Designator=C?(K73-17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=C?(K73-17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=DR?(Inductor-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "100 ÏÍ√Ì"; VariantName = "[No Variations]"
+Added Component: Designator=HA?(YMD12095(I)3V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(LP0003A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TL431AILP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tl431ailp/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100034171.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL431AILP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TL431AILP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431AILP?qs=DcvZ7Fltd5zv1pNIYzWUXQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(DIP794W53P254L3467H457Q28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/atmega8-16pu/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.atmel.com/images/atmel-2486-8-bit-avr-microcontroller-atmega8_l_summary.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.572mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATMEGA8-16PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA8-16PU?qs=7JStj%2FjQ2SFlSdRaC1qNjQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(PushButton6x6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP?(JACK1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=DR?-2
+Added Pin To Net: NetName=+5V Pin=IC?-7
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-22
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBQ?_1 Pin=BQ?-1
+Added Pin To Net: NetName=NetBQ?_1 Pin=C?-2
+Added Pin To Net: NetName=NetBQ?_1 Pin=IC?-10
+Added Net: Name=NetBQ?_1
+Added Pin To Net: NetName=NetBQ?_2 Pin=BQ?-2
+Added Pin To Net: NetName=NetBQ?_2 Pin=C?-2
+Added Pin To Net: NetName=NetBQ?_2 Pin=IC?-9
+Added Net: Name=NetBQ?_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-3
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-21
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetDR?_1 Pin=DR?-1
+Added Pin To Net: NetName=NetDR?_1 Pin=IC?-20
+Added Net: Name=NetDR?_1
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=SB?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=SB?-3
+Added Net: Name=NetIC?_1
+Added Class: Name=Atmega8_Clock
+Added Room: Name=Atmega8_Clock

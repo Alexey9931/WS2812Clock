@@ -1,0 +1,106 @@
+Added Component: Designator=C?(K73-17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=C?(K73-17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap-EL(10x17-5)T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÏÍ‘ "; VariantName = "[No Variations]"
+Added Component: Designator=IC?(DS18B20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/DS18B20+.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DS18B20+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-DS18B20+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/DS18B20%2b?qs=7H2Jq%252ByxpJKegCKabDbglA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SS8550CTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ss8550cta/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/SS8550-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS8550CTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-SS8550CTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/SS8550CTA?qs=UMEuL5FsraCgmcObR%2FdvUQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(350-00009)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA19/1465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Parallax"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "350-00009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "619-350-00009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=619-350-00009"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(PushButton6x6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB?(PushButton6x6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=HA?-2
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=+5V Pin=IC?-3
+Added Pin To Net: NetName=+5V Pin=Q?-1
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=SB?-3
+Added Pin To Net: NetName=GND Pin=SB?-3
+Added Pin To Net: NetName=GND Pin=XP?-1
+Added Pin To Net: NetName=+5V Pin=XP?-3
+Added Pin To Net: NetName=button1 Pin=IC?-4
+Added Pin To Net: NetName=button1 Pin=R?-1
+Added Net: Name=button1
+Added Pin To Net: NetName=button2 Pin=IC?-12
+Added Pin To Net: NetName=button2 Pin=R?-1
+Added Net: Name=button2
+Added Pin To Net: NetName=buzzer Pin=IC?-2
+Added Pin To Net: NetName=buzzer Pin=R?-2
+Added Net: Name=buzzer
+Added Pin To Net: NetName=ds18b20 Pin=IC?-2
+Added Pin To Net: NetName=ds18b20 Pin=IC?-13
+Added Pin To Net: NetName=ds18b20 Pin=R?-1
+Added Net: Name=ds18b20
+Added Pin To Net: NetName=NetHA?_1 Pin=HA?-1
+Added Pin To Net: NetName=NetHA?_1 Pin=Q?-3
+Added Net: Name=NetHA?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 10 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 18 Ô‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 18 Ô‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 100 Ì‘
+Added Member To Class: ClassName=Atmega8_Clock Member=Component C? 10 ÏÍ‘ 
+Added Member To Class: ClassName=Atmega8_Clock Member=Component IC? ATMEGA8-16PU
+Added Member To Class: ClassName=Atmega8_Clock Member=Component IC? DS18B20+
+Added Member To Class: ClassName=Atmega8_Clock Member=Component Q? SS8550CTA
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 350-00009
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 4.7 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 10 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 10 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 1 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component R? 10 ÍŒÏ
+Added Member To Class: ClassName=Atmega8_Clock Member=Component SB? PushButton6x6
+Added Member To Class: ClassName=Atmega8_Clock Member=Component SB? PushButton6x6
